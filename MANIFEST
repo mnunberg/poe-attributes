@@ -1,0 +1,10 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/POE/Attributes.pm
+t/00-simple_events.t
+t/01-times.t
+t/02-os_signals.t
+t/03-wiring.t
+
